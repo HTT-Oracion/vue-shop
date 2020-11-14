@@ -1,5 +1,5 @@
-# vue_shop2
 
+# 基于Vue2.0 + ElementUI + vue-router + vuex + vue-cli
 ## Project setup
 ```
 npm install
@@ -15,10 +15,4 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
